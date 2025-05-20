@@ -15,8 +15,8 @@ Con esta herramienta convertirás cualquier PDF en un flujo palabra por palabra 
 ├── requirements.txt      # Dependencias Python
 ├── uploads/              # PDFs subidos por el usuario
 ├── static/
-│   ├── images/           # Imágenes extraídas y redimensionadas
 │   ├── assets/           # Imágenes para complementar este README
+│   ├── images/           # Imágenes extraídas y redimensionadas
 │   └── logos/            # Logo de fithithub
 └── README.md             # Este archivo
 ```
@@ -54,13 +54,13 @@ Con esta herramienta convertirás cualquier PDF en un flujo palabra por palabra 
 3. Haz clic en **Start** para comenzar la presentación palabra por palabra.
 4. Ajusta la **velocidad de palabras (ms)** y la **velocidad de imágenes (ms)** según tu preferencia.
 5. Puedes pausar la presentación y navegar con:
-   - **Next » / « Previous**  
+   - **« Anterior / Siguiente »**  
    - **±N** para saltos rápido.
    - **Buscar frase** o **Ir a posición**.
 
 ---
 
-## 🎯 Funcionlidades clave
+## 🎯 Funcionalidades clave
 
 - 🔥 Velocidad ajustable de **palabras** (PPM) e **imágenes** (IPM).  
 - 📊 Seguimiento de progreso: tiempo total, restante y porcentaje leído.  
