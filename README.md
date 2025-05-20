@@ -26,8 +26,8 @@ Con esta herramienta convertirás cualquier PDF en un flujo palabra por palabra 
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/fithithub/fast_reader.git
-   cd fast_reader
+   git clone https://github.com/fithithub/lector_rapido.git
+   cd lector_rapido
    ```
 
 2. **Crea y activa un entorno virtual**  
