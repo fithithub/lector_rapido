@@ -16,6 +16,7 @@ Con esta herramienta convertirás cualquier PDF en un flujo palabra por palabra 
 ├── uploads/              # PDFs subidos por el usuario
 ├── static/
 │   ├── images/           # Imágenes extraídas y redimensionadas
+│   ├── assets/           # Imágenes para complementar este README
 │   └── logos/            # Logo de fithithub
 └── README.md             # Este archivo
 ```
